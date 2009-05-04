@@ -1,0 +1,2 @@
+Tweet Parser - Copyright (c) 2009 Robert Dzikowski, robert@rd-it.net. All rights reserved.
+
